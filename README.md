@@ -28,4 +28,4 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
 
 🥂 Cheers!
 
-![Profile Views](https://gpvc.arturio.dev/Adebara123) 
+![Profile Views](https://gpvc.arturio.dev/sam-c14) 
