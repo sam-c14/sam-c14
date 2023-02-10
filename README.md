@@ -21,6 +21,7 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
 ![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
 ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
 ![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
+<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 
 ## 📈 GitHub Stats
 
