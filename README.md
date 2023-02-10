@@ -26,6 +26,8 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
 
 ![S A M U E L's Github Stats](https://github-readme-stats.vercel.app/api?username=sam-c14&theme=merko&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-c14&theme=onedark" alt="SamuelBasseyJohn" /></p>
+
 🥂 Cheers!
 
 ![Profile Views](https://gpvc.arturio.dev/sam-c14) 
