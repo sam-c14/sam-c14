@@ -3,10 +3,8 @@
 My name is Affah Samuel. I am a Frontend Developer with the understanding of the Javascript and DOM Principles.
 
 <!-- - ⚡ Exploring Docker and Kubernetes. -->
-- 😄 Pronouns: He/Him.
 - ⚡ Exploring Javascript/Vue [Frontend Development].
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to contribute to open source projects.
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayomide-adebara-69b58219a/)](https://www.linkedin.com/in/samuel-affah-69b58219a/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelaffah14@gmail.com)](mailto:samuelaffah14@gmail.com)
@@ -27,7 +25,19 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
 
 ![S A M U E L's Github Stats](https://github-readme-stats.vercel.app/api?username=sam-c14&theme=merko&show_icons=true&custom_title=Activity%20Stats&title_color=40c463&text_color=b9c1c9&bg_color=161b22&hide_border=true&icon_color=40c463)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-c14&theme=onedark" alt="SamuelBasseyJohn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-c14&theme=onedark" alt="sam-c14" /></p>
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on a Quiz App in Vue and looking to start building an LMS Platform with React and Node
+<!-- - 🌱 I’m currently learning  -->
+- 👯 I’m looking to collaborate on Open-source Projects
+<!-- - 🤔 I’m looking for help with ... -->
+- 💬 Let's Talk
+<!-- - 📫 How to reach me: ... -->
+- 😄 Pronouns: He/Him
+<!-- - ⚡ Fun fact:  -->
 
 🥂 Cheers!
 
