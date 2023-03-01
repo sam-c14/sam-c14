@@ -3,7 +3,7 @@
 My name is Affah Samuel. I am a Frontend Developer with the understanding of the Javascript and DOM Principles.
 
 <!-- - ⚡ Exploring Docker and Kubernetes. -->
-- ⚡ Exploring Javascript/Vue [Frontend Development].
+- ⚡ Exploring Javascript/Vue/React/Scss/Typescript [Frontend Development].
 - 🌱 I’m currently learning Node.js
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayomide-adebara-69b58219a/)](https://www.linkedin.com/in/samuel-affah-69b58219a/) 
