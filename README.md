@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Affah Samuel. I am a Frontend Developer with the understanding of the Javascript and DOM Principles.
+My name is Affah Samuel. I am a Frontend Developer with the understanding of the Javascript,ES6,WPO  and DOM Principles.
 
 <!-- - ⚡ Exploring Docker and Kubernetes. -->
 - ⚡ Exploring Javascript/Vue/React/Scss/Typescript [Frontend Development].
