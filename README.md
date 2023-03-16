@@ -11,15 +11,29 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelaffah14@gmail.com)](mailto:samuelaffah14@gmail.com)
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/affah_samuel)](https://twitter.com/affah_samuel)
  
- ## 🔧 Languages and Tools
+ ## 🔧 My Languages
  
- 
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=000000&color=238636&labelColor=F7DF1E)
-![](https://img.shields.io/badge/Vue-informational?style=flat&logo=vue&logoColor=white&color=238636&labelColor=61DAFB)
-![](https://img.shields.io/badge/TailwindCss-informational?style=flat&logo=tailwind&logoColor=ffffff&color=238636&labelColor=7952B3)
-![](https://img.shields.io/badge/GIT-informational?style=flat&logo=git&logoColor=ffffff&color=238636&labelColor=F05032)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=github&logoColor=ffffff&color=238636&labelColor=181717)
-![](https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visual-studio-code&logoColor=007ACC&color=238636&labelColor=ffffff)
+<code><img src="images/html.jpg" width="60" title="HTML" /></code>
+<code><img src="images/css.jpg" width="60" title="CSS" /></code>
+<code><img src="images/sass.jpg" width="60" title="SASS" /></code>
+<code><img src="images/javascript.png" width="60" title="JavaScript" /></code>
+<code><img src="images/python.png" width="60" title="Python" /></code>
+
+#### Frameworks/Libraries I Use
+<code><img src="images/tailwind.png" width="70" title="Tailwind" /></code>
+<code><img src="images/B.png" width="70" title="Bootstrap" /></code>
+<code><img src="images/react.png" width="80" title="React" /></code>
+<code><img src="images/vue.png" width="80" title="React" /></code>
+<code><img src="images/api.jpg" width="70" title="API" /></code>
+<code><img src="images/json.png" width="70" title="JSON" /></code>
+<code><img src="images/nodemon.png" width="80" title="Nodemon" /></code>
+
+#### Tools I Use
+<code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
+<code><img src="images/github.jpg" width="60" title="GitHub" /></code>
+<code><img src="images/git.jpg" width="60" title="Git" /></code>
+<code><img src="images/x-code.png" width="60" title="Xcode" /></code>
+<code><img src="images/R.png" width="50" title="NodeJS" /></code>
 
 
 ## 📈 GitHub Stats
