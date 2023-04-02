@@ -45,7 +45,7 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a Quiz App in Vue and looking to start building an LMS Platform with React and Node
+- 🔭 I’m currently working looking to start building an LMS Platform with React and Node and an E-Commerce store
 <!-- - 🌱 I’m currently learning  -->
 - 👯 I’m looking to collaborate on Open-source Projects
 <!-- - 🤔 I’m looking for help with ... -->
