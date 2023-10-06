@@ -5,7 +5,7 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
 <!-- - ⚡ Exploring Docker and Kubernetes. -->
 - ⚡ Exploring Javascript/Vue/React/Scss/Typescript [Frontend Development].
 - ⚡ Currently Exploring DSA too.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning ExpressJs/MongoDb
 - 💬 Ask me about anything🌚,
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayomide-adebara-69b58219a/)](https://www.linkedin.com/in/samuel-affah-69b58219a/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuelaffah14@gmail.com)](mailto:samuelaffah14@gmail.com)
@@ -45,7 +45,7 @@ My name is Affah Samuel. I am a Frontend Developer with the understanding of the
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working looking to start building an LMS Platform with React and Node and an E-Commerce store
+- 🔭 I’m currently working on a ChatApp called ChatBox, if you would like to join me, Kindly reach out.
 <!-- - 🌱 I’m currently learning  -->
 - 👯 I’m looking to collaborate on Open-source Projects
 <!-- - 🤔 I’m looking for help with ... -->
